@@ -1,0 +1,46 @@
+
+#container{
+    /* background-color: #fff; */
+    width: fit-content;
+    height: fit-content;
+} 
+  
+#button1{
+    background-color: #fff;
+    border-radius: 9999px;
+    border-color: #6e37fa;
+    color: #6e37fa;
+    height: 2rem;
+    width:10rem;
+    margin: 10px;
+    padding: 10px;
+   
+}
+#heading{
+    color: #002041;
+    text-align: center;
+}
+#result{
+    color: #002041;
+    /* background-color: #fff; */
+    text-align: center;
+    font-size:   larger;
+     
+   
+}
+
+input{
+    text-align: center;
+    padding: 5px;
+    margin-top:10px 0;
+    border-radius:10px;
+    border: 2px solid #eee;
+    width: fit-content;
+    /* background-color: #fff; */
+}
+footer{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    height: 1px;
+}

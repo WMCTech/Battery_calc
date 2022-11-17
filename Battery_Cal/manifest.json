@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Battery Calculator",
+    "description": "A Battery Calculator to determined how much battery life is left.",
+    "version": "1.0",
+    "action": {
+      "default_icon": "batteryCal_extension.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }
